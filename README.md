@@ -18,14 +18,18 @@ PyPoll: Analyze voting records, tally results, and identify winner.  Key statist
 
 ## Visuals
 
-![2018_Screenshot](https://user-images.githubusercontent.com/127908349/227750186-c1921746-c654-44ff-8f74-6e436a48e29a.png)
+PyBank
+![pybank](https://user-images.githubusercontent.com/127908349/229410889-18d1bbdc-103c-4cb1-b04d-940444eead01.png)
+
+PyPoll
+![pypoll](https://user-images.githubusercontent.com/127908349/229410902-962a4452-ad29-448e-9da1-98fa4c4515f4.png)
 
 ## Authors and acknowledgment
 Thank you to:
 * [makereadme.com](https://www.makeareadme.com/) for README.md template
 * [commonmark.org](https://commonmark.org/help/) for instructions on Markdown
 * [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/) for instructions on adding an image to REAMDE.md
-* [learn.microsoft.com](https://learn.microsoft.com/en-us/office/vba/api/overview/) and [wallstreetmojo.com](https://www.wallstreetmojo.com/vba-countif/) for help with VBA scripting and formulas
+
 
 ## Project status
-Project has been completed and submitted for grading for the March 2023 UCF Data Analysis and Visualization course.
+Project has been completed and submitted for grading for the 2023 UCF Data Analysis and Visualization course.
