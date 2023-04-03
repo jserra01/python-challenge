@@ -28,7 +28,7 @@ PyPoll: Analyze voting records, tally results, and identify winner.  Key statist
 Thank you to:
 * [makereadme.com](https://www.makeareadme.com/) for README.md template
 * [commonmark.org](https://commonmark.org/help/) for instructions on Markdown
-* [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/) for instructions on adding an image to README.md
+* [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/) for instructions on adding an image to README.md and Python list manipulation
 * [w3schools.com](https://www.w3schools.com/python/default.asp) for instructions and tutorials on reading/writing files and list manipulations in Python
 
 
